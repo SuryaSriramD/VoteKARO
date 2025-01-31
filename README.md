@@ -67,9 +67,9 @@ OnlineVotingSystem/
 │   │   │   ├── ResultsActivity/        
 │   │   ├── res/
 │   │   │   ├── layout/
-               ├── activity_ballot.xml
-               ├── activity_main.xml
-               ├── activity_results.xml     # XML files for UI
+            │   ├── activity_ballot.xml
+            │   ├── activity_main.xml
+            │   ├── activity_results.xml     # XML files for UI
 │   │   │   ├── drawable/     # Icons and images
 │   │   │   ├── values/       # Strings, colors, styles
 │   ├── AndroidManifest.xml
