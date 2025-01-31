@@ -62,11 +62,14 @@ OnlineVotingSystem/
 │── app/src/
 │   ├── main/
 │   │   ├── java/com/example/onlinevotingsystem/
-│   │   │   ├── activities/   # Login, Register, Dashboard, VoteActivity, etc.
-│   │   │   ├── models/       # User, Candidate, Vote models
-│   │   │   ├── utils/        # Helper classes for database operations
+│   │   │   ├── BallotActivity/
+│   │   │   ├── MainActivity/      
+│   │   │   ├── ResultsActivity/        
 │   │   ├── res/
-│   │   │   ├── layout/       # XML files for UI
+│   │   │   ├── layout/
+               ├── activity_ballot.xml
+               ├── activity_main.xml
+               ├── activity_results.xml     # XML files for UI
 │   │   │   ├── drawable/     # Icons and images
 │   │   │   ├── values/       # Strings, colors, styles
 │   ├── AndroidManifest.xml
