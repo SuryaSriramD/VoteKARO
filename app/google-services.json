@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174061251241",
+    "project_id": "votekaro-f2f88",
+    "storage_bucket": "votekaro-f2f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174061251241:android:e5a39b232eab5a792557b8",
+        "android_client_info": {
+          "package_name": "com.example.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dfP2XypB7DoehJL-hdhxwqKlLMbXkUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
